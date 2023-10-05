@@ -5,7 +5,7 @@
   
 # Data 
 - The project uses a dataset containing historical sales data, which includes information such as date, product categories, sales revenue, and customer demographics. This dataset is stored in a file named 
-  diwali_sales_data.csv located in the data directory.
+  diwali_sales_data.csv located in the data directory . Data extracted from Kaggle .
 # Tools and Libraries -
 To perform the data analysis, we will be using the following tools and libraries -
 * Jupyter Notebook
